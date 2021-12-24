@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cazar27
 - 👀 I’m interested in Web and Mobily Developed
-- 🌱 I’m currently learning Angular,React, Mongo...
+- 🌱 I’m currently learning NodeJS, React, MongoDB...
 - 📫 How to reach me on carloszamorano.es
 
 <!---
